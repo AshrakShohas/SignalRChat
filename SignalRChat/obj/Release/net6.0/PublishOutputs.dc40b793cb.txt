@@ -1,0 +1,8 @@
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\SignalRChat.exe
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\libman.json
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\SignalRChat.dll
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\SignalRChat.deps.json
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\SignalRChat.runtimeconfig.json
+E:\dot net teaching\SignalRChat\SignalRChat\obj\Release\net6.0\PubTmp\Out\SignalRChat.pdb
